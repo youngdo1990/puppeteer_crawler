@@ -14,6 +14,9 @@ cd Nodejs_Crawling
 node crawler.js
 ```
 ## 스크린샷
+### 실행콘솔
+<img src="/img/excexcition_console.png />
+### DB 슥크린샷
 <img src="/img/db_screenshoot.png" />
 ## 기타
 <ul>
