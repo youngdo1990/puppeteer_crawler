@@ -14,7 +14,7 @@ cd Nodejs_Crawling
 node crawler.js
 ```
 ## 스크린샷
-<img src="/img/
+<img src="/img/db_screenshoot.png" />
 ## 기타
 <ul>
   <li>앱은 지금 쿠팡 쿠롤링 하고 있습니다.</li>
