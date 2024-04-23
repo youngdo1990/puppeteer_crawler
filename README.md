@@ -15,7 +15,7 @@ node crawler.js
 ```
 ## 스크린샷
 ### 실행콘솔
-<img src="/img/execution_console.png />
+<img src="/img/execution_screen.png />
 ### DB 슥크린샷
 <img src="/img/db_screenshoot.png" />
 ## 기타
