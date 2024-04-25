@@ -7,9 +7,9 @@ npm install express
 npm install puppeteer
 npm install mysql
 ```
-## 데이터베이스
-크롤링된 데이터를 데이터베이스에 저장하니까 데이터베이스는 crawling_data.sql 파일을 이용하고 가져올 수 있습니다.
-## 실행 방법
+## Database
+The scrapped data will be saved in database. You can import the database by using crawled_info.sql file.
+## How to run
 ```
 cd Nodejs_Crawling
 node crawler.js
