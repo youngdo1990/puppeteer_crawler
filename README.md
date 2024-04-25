@@ -1,5 +1,5 @@
 # <img src="./img/puppeter_icon.png" height="40px"></img> Puppeteer Crawler
-<a href="./README_eng.md"><img src="./img/flags/us.png" height="25px"></img>ENGLISH</a>
+<a href="./README_eng.md"><img src="./img/flags/us.png" height="25px"></img> ENGLISH</a>
 ## 필요한 라이브러리
 필요한 Node js 라이브러리 다음과 같습니다.
 ```
