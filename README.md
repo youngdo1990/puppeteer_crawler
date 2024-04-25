@@ -1,4 +1,4 @@
-# <img src="./img/puppeter_icon.png" height="10px" /> Puppeteer Crawler
+# <img src="./img/puppeter_icon.png" height="40px" /> Puppeteer Crawler
 ## 필요한 라이브러리
 필요한 Node js 라이브러리 다음과 같습니다.
 ```
